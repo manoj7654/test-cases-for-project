@@ -16,5 +16,5 @@ jobs:
         node-version: '18.x'
     - name: install packages
       run: npm i
-    - name: execute tests
+    - name: execute test cases
       run: npm test
